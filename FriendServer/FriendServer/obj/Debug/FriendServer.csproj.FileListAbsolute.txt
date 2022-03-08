@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\FriendServer\FriendServer\bin\Debug\FriendServer.exe.config
+C:\Users\user\Desktop\FriendServer\FriendServer\obj\Debug\FriendServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\FriendServer\FriendServer\obj\Debug\FriendServer.FriendServer.resources
+C:\Users\user\Desktop\FriendServer\FriendServer\obj\Debug\FriendServer.Properties.Resources.resources
+C:\Users\user\Desktop\FriendServer\FriendServer\obj\Debug\FriendServer.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\FriendServer\FriendServer\bin\Debug\FriendServer.exe
+C:\Users\user\Desktop\FriendServer\FriendServer\bin\Debug\FriendServer.pdb
+C:\Users\user\Desktop\FriendServer\FriendServer\obj\Debug\FriendServer.exe
+C:\Users\user\Desktop\FriendServer\FriendServer\obj\Debug\FriendServer.pdb
+E:\PROJEKT\FriendServer\FriendServer\bin\Debug\FriendServer.exe.config
+E:\PROJEKT\FriendServer\FriendServer\obj\Debug\FriendServer.exe
+E:\PROJEKT\FriendServer\FriendServer\obj\Debug\FriendServer.pdb
+E:\PROJEKT\FriendServer\FriendServer\bin\Debug\FriendServer.exe
+E:\PROJEKT\FriendServer\FriendServer\bin\Debug\FriendServer.pdb
+E:\PROJEKT\FriendServer\FriendServer\obj\Debug\FriendServer.csprojResolveAssemblyReference.cache
+E:\PROJEKT\FriendServer\FriendServer\obj\Debug\FriendServer.FriendServer.resources
+E:\PROJEKT\FriendServer\FriendServer\obj\Debug\FriendServer.Properties.Resources.resources
+E:\PROJEKT\FriendServer\FriendServer\obj\Debug\FriendServer.csproj.GenerateResource.Cache
+F:\PROJEKT\FriendServer\FriendServer\bin\Debug\FriendServer.exe.config
+F:\PROJEKT\FriendServer\FriendServer\obj\Debug\FriendServer.exe
+F:\PROJEKT\FriendServer\FriendServer\obj\Debug\FriendServer.pdb
+F:\PROJEKT\FriendServer\FriendServer\bin\Debug\FriendServer.exe
+F:\PROJEKT\FriendServer\FriendServer\bin\Debug\FriendServer.pdb
+F:\PROJEKT\FriendServer\FriendServer\obj\Debug\FriendServer.csprojResolveAssemblyReference.cache
+F:\PROJEKT\FriendServer\FriendServer\obj\Debug\FriendServer.FriendServer.resources
+F:\PROJEKT\FriendServer\FriendServer\obj\Debug\FriendServer.Properties.Resources.resources
+F:\PROJEKT\FriendServer\FriendServer\obj\Debug\FriendServer.csproj.GenerateResource.Cache
+E:\Alles andere\PROJEKT\FriendServer\FriendServer\bin\Debug\FriendServer.exe.config
+E:\Alles andere\PROJEKT\FriendServer\FriendServer\obj\Debug\FriendServer.exe
+E:\Alles andere\PROJEKT\FriendServer\FriendServer\obj\Debug\FriendServer.pdb
