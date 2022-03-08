@@ -1,0 +1,39 @@
+C:\Users\Labinot\Desktop\FriendChat\FriendChat\bin\Debug\FriendChat.exe.config
+C:\Users\Labinot\Desktop\FriendChat\FriendChat\bin\Debug\FriendChat.exe
+C:\Users\Labinot\Desktop\FriendChat\FriendChat\bin\Debug\FriendChat.pdb
+C:\Users\Labinot\Desktop\FriendChat\FriendChat\obj\Debug\FriendChat.csprojResolveAssemblyReference.cache
+C:\Users\Labinot\Desktop\FriendChat\FriendChat\obj\Debug\FriendChat.FriendChat.resources
+C:\Users\Labinot\Desktop\FriendChat\FriendChat\obj\Debug\FriendChat.Properties.Resources.resources
+C:\Users\Labinot\Desktop\FriendChat\FriendChat\obj\Debug\FriendChat.csproj.GenerateResource.Cache
+C:\Users\Labinot\Desktop\FriendChat\FriendChat\obj\Debug\FriendChat.exe
+C:\Users\Labinot\Desktop\FriendChat\FriendChat\obj\Debug\FriendChat.pdb
+F:\PROJEKT\FriendChat\FriendChat\bin\Debug\FriendChat.exe.config
+F:\PROJEKT\FriendChat\FriendChat\obj\Debug\FriendChat.exe
+F:\PROJEKT\FriendChat\FriendChat\obj\Debug\FriendChat.pdb
+C:\Users\user\Desktop\FriendChat\FriendChat\bin\Debug\FriendChat.exe.config
+C:\Users\user\Desktop\FriendChat\FriendChat\obj\Debug\FriendChat.exe
+C:\Users\user\Desktop\FriendChat\FriendChat\obj\Debug\FriendChat.pdb
+C:\Users\user\Desktop\FriendChat\FriendChat\bin\Debug\FriendChat.exe
+C:\Users\user\Desktop\FriendChat\FriendChat\bin\Debug\FriendChat.pdb
+C:\Users\user\Desktop\FriendChat\FriendChat\obj\Debug\FriendChat.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\FriendChat\FriendChat\obj\Debug\FriendChat.FriendChat.resources
+C:\Users\user\Desktop\FriendChat\FriendChat\obj\Debug\FriendChat.Properties.Resources.resources
+C:\Users\user\Desktop\FriendChat\FriendChat\obj\Debug\FriendChat.csproj.GenerateResource.Cache
+E:\PROJEKT\FriendChat\FriendChat\bin\Debug\FriendChat.exe.config
+E:\PROJEKT\FriendChat\FriendChat\obj\Debug\FriendChat.exe
+E:\PROJEKT\FriendChat\FriendChat\obj\Debug\FriendChat.pdb
+E:\PROJEKT\FriendChat\FriendChat\bin\Debug\FriendChat.exe
+E:\PROJEKT\FriendChat\FriendChat\bin\Debug\FriendChat.pdb
+E:\PROJEKT\FriendChat\FriendChat\obj\Debug\FriendChat.csprojResolveAssemblyReference.cache
+E:\PROJEKT\FriendChat\FriendChat\obj\Debug\FriendChat.FriendChat.resources
+E:\PROJEKT\FriendChat\FriendChat\obj\Debug\FriendChat.Properties.Resources.resources
+E:\PROJEKT\FriendChat\FriendChat\obj\Debug\FriendChat.csproj.GenerateResource.Cache
+F:\PROJEKT\FriendChat\FriendChat\bin\Debug\FriendChat.exe
+F:\PROJEKT\FriendChat\FriendChat\bin\Debug\FriendChat.pdb
+F:\PROJEKT\FriendChat\FriendChat\obj\Debug\FriendChat.csprojResolveAssemblyReference.cache
+F:\PROJEKT\FriendChat\FriendChat\obj\Debug\FriendChat.FriendChat.resources
+F:\PROJEKT\FriendChat\FriendChat\obj\Debug\FriendChat.Properties.Resources.resources
+F:\PROJEKT\FriendChat\FriendChat\obj\Debug\FriendChat.csproj.GenerateResource.Cache
+E:\Alles andere\PROJEKT\FriendChat\FriendChat\bin\Debug\FriendChat.exe.config
+E:\Alles andere\PROJEKT\FriendChat\FriendChat\obj\Debug\FriendChat.exe
+E:\Alles andere\PROJEKT\FriendChat\FriendChat\obj\Debug\FriendChat.pdb
